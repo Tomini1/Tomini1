@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Abimbola Awopetu 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/[Tomini1]/[your-profile-banner].png" alt="[Your Name] Banner">
+  <img src="https://github.com/Tomini1/![pic](https://github.com/user-attachments/assets/8c77b16d-a3d5-49ef-96e3-b29497bb7b3d)" alt="[Your Name] Banner">
 </p>
 
 # About Me
