@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi there, I'm Abimbola Awopetu 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/Tomini1/![pic](https://github.com/user-attachments/assets/8c77b16d-a3d5-49ef-96e3-b29497bb7b3d)" alt="[Your Name] Banner">
-</p>
-
 # About Me
 I'm currently learning on the ALX back-end program. I am passionate about software engineering. My journey began with a strong curiosity for solving problems and building innovative solutions. I love leveraging technology to create impactful products.
 
